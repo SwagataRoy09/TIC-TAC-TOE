@@ -8,7 +8,7 @@ public class TicTacToe {
     static char compsign;
     static char s;
 
-        public static void main(String[] array) throws InputMismatchException {
+        public static void main(String[] array) {
         Scanner sc = new Scanner(System.in);
         Arrays.fill(arr, 0);
 
